@@ -1,0 +1,4 @@
+requests
+xmltodict
+django-celery
+django-redis
